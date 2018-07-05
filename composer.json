@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/google2fa",
+    "name": "pixelfed/google2fa",
     "description": "A One Time Password Authentication package, compatible with Google Authenticator.",
     "keywords": ["authentication", "two factor authentication", "google2fa", "laravel", "2fa"],
     "license": "MIT",
